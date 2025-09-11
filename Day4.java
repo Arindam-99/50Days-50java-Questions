@@ -1,0 +1,22 @@
+// Check whether a number is even or odd.
+
+import java.util.Scanner;
+
+public class Day4 {
+
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+
+    System.out.print("Enter the number to check ...");
+    int num = sc.nextInt();
+
+    if(num % 2 == 0){
+      System.out.println("The number is even number ..");
+
+    }else{
+      System.out.println("The number is odd number ..");
+
+      sc.close();
+    }
+  }
+}
