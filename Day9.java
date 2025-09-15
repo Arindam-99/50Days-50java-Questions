@@ -10,5 +10,6 @@ public class Day9 {
     StringBuilder sb = new StringBuilder(str);
 
     System.out.println("Reversed string: " + sb.reverse());
+    sc.close();
   }
 }
