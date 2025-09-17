@@ -1,4 +1,4 @@
-// Find the largest element in array..
+// Day 11: Find the largest element in array..
 import java.util.Scanner;
 
 public class  Day11 {
