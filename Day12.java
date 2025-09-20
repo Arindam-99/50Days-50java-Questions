@@ -16,6 +16,6 @@ public class Day12 {
       System.out.println("The array is sorted.");
     } else {
       System.out.println("The array is not sorted.");
-    }
+    } 
   }
 }
